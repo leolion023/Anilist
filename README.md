@@ -24,3 +24,62 @@ We will limit ourselves to more modern trends focusing on the twenty year period
      - This was chosen over a subjective metric like average rating because the number of eyes on a show better reflects the effectiveness of a genre, source, or tag to draw attention, be it positive or negative.
  - Anilist is primarily a western English speaking platform; we can assume that this will be reflected in the accumulated popularity metrics.
  - Anilist includes hundreds of tags in its library. I have chosen a select few based on common observances in community conversation. We ignored tags that were better represented in genres, as well as tags referring to demographics such as Shonen, Shojo, etc. There were also tags that were decidedly not represented enough to be included in this analysis.
+
+# Data:
+
+The data in this project contains Titles, Formats, Genres, Tags, Popularity, and release Year for Anime on anilist.co. Data was collected via thier graphQL API. Pre-compiled versions of the data are available in the project itself via .csv files. Users can update the files to include more recent shows via `compile_list.ipynb`.
+- `complete_anilist.csv` (compiled list made in February 2025)
+- `my_anilst.csv` (list of shows from users anilist page, used for future features)
+- Refer to `compile_list.ipynb` if you would like to create your own lists.
+
+# Project Structure:
+
+- **Data Exploration:** using Jupyter notebooks to explore the data set
+- **Analysis:** using Python with primarily the pandas and json package to clean and reformat the data.
+- **Visualization:** using Matplot and Seaborn to visualize data findings.
+
+## Features Utilized in this Project:
+
+| Features | Descriptions |
+|--|--|
+| Make API calls to create Data Base | Create `complete_list.csv` and `my_list.csv` via graphQL API from anilist.co using `compile_list.ipynb` |
+| Clean data using pandas and create new data bases via calculations | `anilist_analysis.ipynb` cleans data using pandas calculates new data points and joins the findings for data analysis |
+| Visualize data for analysis | `anilist_analysis.ipynb` utilizes matplotlib and seaborn to visualize data exploring anime sources, genres and tags over the last 20 years |
+| Utilize a virtual environment | Made a venv for this project |
+| Notate code with markdown cells in Jupyter Notebook | Included you will find clear notes describing each code block |
+
+## Getting Started:
+
+To run this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/leolion023/Anilist`
+2. Install the necessary dependencies: `pip install -r requirements.txt`
+3. Explore the Jupyter notebooks or scripts in the respective folders.
+
+## Dependencies:
+
+- Pandas
+- Requests
+- Json
+- Numpy
+- Matplotlib
+- Seaborn
+- ast
+
+###  Virtual Environment Instructions
+---
+1. After you have cloned the repo to your machine, navigate to the project 
+folder in GitBash/Terminal.
+2. Create a virtual environment in the project folder. 
+3. Activate the virtual environment.
+4. Install the required packages. 
+5. When you are done working on your repo, deactivate the virtual environment.
+
+Virtual Environment Commands
+
+|  Command  |  Linux/Mac  |  GitBash  |
+| --------- | ----------- | --------- |
+| Create | `python3 -m venv venv` | `python -m venv venv` |
+| Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
+| Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
+| Deactivate | `deactivate` | `deactivate` |
