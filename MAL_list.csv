@@ -1,89 +1,89 @@
-id,title,num_list_users
-77,Mahou Shoujo Lyrical Nanoha A's,67350
-933,Dai Mahou Touge,35272
-1221,Demashita! Powerpuff Girls Z,37400
-1642,Sugar Sugar Rune,45303
-1808,Kamichama Karin,54563
-1915,Mahou Shoujo Lyrical Nanoha StrikerS,55132
-1929,Futari wa Precure: Max Heart,21281
-1932,Yes! Precure 5,19525
-2367,Moetan,30092
-2489,Onegai My Melody,18816
-2923,Shugo Chara!,226089
-3328,School Days: Magical Heart Kokoro-chan,45428
-5262,Shugo Chara!! Doki,106489
-5684,Fresh Precure!,18476
-6129,Umi Monogatari: Anata ga Ite Kureta Koto,30180
-7082,Shugo Chara! Party!,76144
-7645,Heartcatch Precure!,34734
-9756,Mahou Shoujo Madoka★Magica,1343975
-9893,Suite Precure♪,17587
-10491,Higurashi no Naku Koro ni Kira,89615
-10519,Mahou Shoujo Sonico★Magica,21678
-11751,Senki Zesshou Symphogear,123933
-12191,Smile Precure!,48247
-14283,Vividred Operation,68391
-14751,Bishoujo Senshi Sailor Moon Crystal,153504
-14829,Fate/kaleid liner Prisma☆Illya,284821
-15793,Senki Zesshou Symphogear G,62485
-16157,Choujigen Game Neptune The Animation,156090
-16419,Dokidoki! Precure,29625
-16656,Zettai Junpaku♡Mahou Shoujo,20519
-17651,Genei wo Kakeru Taiyou,55971
-17725,Magical☆Star Kanon 100%,32844
-17919,Houkago no Pleiades (TV),37611
-18851,Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!,55440
-20509,Fate/kaleid liner Prisma☆Illya 2wei!,169877
-20479,Choujigen Game Neptune The Animation: Yakusoku no Eien - True End,34029
-21573,Senki Zesshou Symphogear GX,49671
-25519,Yuuki Yuuna wa Yuusha de Aru,160217
-25939,Mahou Shoujo Lyrical Nanoha ViVid,27781
-26165,Yuri Kuma Arashi,106042
-27525,Fate/kaleid liner Prisma☆Illya 2wei Herz!,148984
-26057,Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou,44570
-27727,Binan Koukou Chikyuu Bouei-bu LOVE!,84979
-28669,Go! Princess Precure,20488
-31417,Binan Koukou Chikyuu Bouei-bu LOVE! LOVE!,30298
-33003,Mahou Shoujo Ikusei Keikaku,167799
-31706,Fate/kaleid liner Prisma☆Illya 3rei!!,134094
-31733,Bishoujo Senshi Sailor Moon Crystal Season III,64790
-31884,Mahoutsukai Precure!,16033
-32836,Senki Zesshou Symphogear AXZ,38477
-32843,Senki Zesshou Symphogear XV,41515
-32979,Flip Flappers,197572
-34834,Hina Logi: From Luck & Logic,31446
-33589,ViVid Strike!,91593
-33668,Soushin Shoujo Matoi,29543
-34445,Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,43556
-33354,Cardcaptor Sakura: Clear Card-hen,128408
-34290,Kirakira☆Precure A La Mode,14850
-35250,Urahara,36871
-35320,Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma,45030
-36266,Mahou Shoujo Site,250253
-38897,Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm,22420
-36593,Hug tto! Precure,18541
-36902,Mahou Shoujo Ore,86767
-34284,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,46988
-36976,Cutie Honey Universe,20479
-37561,Akanesasu Shoujo,38308
-37979,Mahou Shoujo Tokushusen Asuka,90650
-38256,Magia Record: Mahou Shoujo Madoka☆Magica Gaiden,169186
-38578,Star☆Twinkle Precure,13390
-39071,Machikado Mazoku,173935
-39417,Granbelm,55512
-40610,Healin' Good♡Precure,13113
-41530,Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya,69667
-41589,Tokyo Mew Mew New ♡,46572
-32553,Nisekoi: OVA,101704
-42587,Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou,26270
-42745,Machikado Mazoku: 2-choume,72916
-44191,Tropical-Rouge! Precure,14210
-45665,Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu,26574
-47639,Blue Reflection Ray,31608
-48981,Mahou Shoujo Magical Destroyers,79542
-49291,Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final Season - Asaki Yume no Akatsuki,32990
-53097,Tokyo Mew Mew New ♡ 2nd Season,15935
-53716,Hirogaru Sky! Precure,11499
-53723,Acro Trip,21017
-54722,Mahou Shoujo ni Akogarete,176053
-57360,Kabushikigaisha Magi-Lumière,29221
+id,title,rank,mean,num_list_users,main_picture.medium,main_picture.large
+77,Mahou Shoujo Lyrical Nanoha A's,731,7.95,67356,https://cdn.myanimelist.net/images/anime/4/6767.jpg,https://cdn.myanimelist.net/images/anime/4/6767l.jpg
+933,Dai Mahou Touge,4713,6.92,35274,https://cdn.myanimelist.net/images/anime/1349/103321.webp,https://cdn.myanimelist.net/images/anime/1349/103321l.webp
+1221,Demashita! Powerpuff Girls Z,7138,6.49,37402,https://cdn.myanimelist.net/images/anime/12/3253.webp,https://cdn.myanimelist.net/images/anime/12/3253l.webp
+1642,Sugar Sugar Rune,1943,7.5,45306,https://cdn.myanimelist.net/images/anime/5/74728.webp,https://cdn.myanimelist.net/images/anime/5/74728l.webp
+1808,Kamichama Karin,3455,7.18,54565,https://cdn.myanimelist.net/images/anime/12/76297.jpg,https://cdn.myanimelist.net/images/anime/12/76297l.jpg
+1915,Mahou Shoujo Lyrical Nanoha StrikerS,1568,7.61,55133,https://cdn.myanimelist.net/images/anime/3/14190.jpg,https://cdn.myanimelist.net/images/anime/3/14190l.jpg
+1929,Futari wa Precure: Max Heart,4441,6.99,21283,https://cdn.myanimelist.net/images/anime/3/7536.jpg,https://cdn.myanimelist.net/images/anime/3/7536l.jpg
+1932,Yes! Precure 5,3499,7.18,19526,https://cdn.myanimelist.net/images/anime/4/7535.jpg,https://cdn.myanimelist.net/images/anime/4/7535l.jpg
+2367,Moetan,7744,6.39,30094,https://cdn.myanimelist.net/images/anime/4/21540.webp,https://cdn.myanimelist.net/images/anime/4/21540l.webp
+2489,Onegai My Melody,2670,7.33,18819,https://cdn.myanimelist.net/images/anime/6/23590.webp,https://cdn.myanimelist.net/images/anime/6/23590l.webp
+2923,Shugo Chara!,2362,7.4,226094,https://cdn.myanimelist.net/images/anime/1615/145754.webp,https://cdn.myanimelist.net/images/anime/1615/145754l.webp
+3328,School Days: Magical Heart Kokoro-chan,12029,5.53,45430,https://cdn.myanimelist.net/images/anime/1746/121860.webp,https://cdn.myanimelist.net/images/anime/1746/121860l.webp
+5262,Shugo Chara!! Doki,2289,7.42,106490,https://cdn.myanimelist.net/images/anime/1186/145753.webp,https://cdn.myanimelist.net/images/anime/1186/145753l.webp
+5684,Fresh Precure!,2465,7.38,18476,https://cdn.myanimelist.net/images/anime/9/21267.jpg,https://cdn.myanimelist.net/images/anime/9/21267l.jpg
+6129,Umi Monogatari: Anata ga Ite Kureta Koto,6473,6.6,30180,https://cdn.myanimelist.net/images/anime/7/15586.jpg,https://cdn.myanimelist.net/images/anime/7/15586l.jpg
+7082,Shugo Chara! Party!,6108,6.66,76145,https://cdn.myanimelist.net/images/anime/1125/145752.webp,https://cdn.myanimelist.net/images/anime/1125/145752l.webp
+7645,Heartcatch Precure!,919,7.86,34736,https://cdn.myanimelist.net/images/anime/2/25915.webp,https://cdn.myanimelist.net/images/anime/2/25915l.webp
+9756,Mahou Shoujo Madoka★Magica,223,8.37,1344018,https://cdn.myanimelist.net/images/anime/11/55225.webp,https://cdn.myanimelist.net/images/anime/11/55225l.webp
+9893,Suite Precure♪,2863,7.29,17587,https://cdn.myanimelist.net/images/anime/3/32129.jpg,https://cdn.myanimelist.net/images/anime/3/32129l.jpg
+10491,Higurashi no Naku Koro ni Kira,6881,6.53,89619,https://cdn.myanimelist.net/images/anime/6/29774.jpg,https://cdn.myanimelist.net/images/anime/6/29774l.jpg
+10519,Mahou Shoujo Sonico★Magica,11059,5.78,21679,https://cdn.myanimelist.net/images/anime/4/28921.jpg,https://cdn.myanimelist.net/images/anime/4/28921l.jpg
+11751,Senki Zesshou Symphogear,4193,7.04,123938,https://cdn.myanimelist.net/images/anime/11/75580.webp,https://cdn.myanimelist.net/images/anime/11/75580l.webp
+12191,Smile Precure!,5126,6.84,48249,https://cdn.myanimelist.net/images/anime/12/76179.jpg,https://cdn.myanimelist.net/images/anime/12/76179l.jpg
+14283,Vividred Operation,7547,6.43,68392,https://cdn.myanimelist.net/images/anime/3/45935.webp,https://cdn.myanimelist.net/images/anime/3/45935l.webp
+14751,Bishoujo Senshi Sailor Moon Crystal,3731,7.13,153510,https://cdn.myanimelist.net/images/anime/1209/133699.webp,https://cdn.myanimelist.net/images/anime/1209/133699l.webp
+14829,Fate/kaleid liner Prisma☆Illya,4328,7.01,284825,https://cdn.myanimelist.net/images/anime/1773/121542.jpg,https://cdn.myanimelist.net/images/anime/1773/121542l.jpg
+15793,Senki Zesshou Symphogear G,2112,7.46,62487,https://cdn.myanimelist.net/images/anime/2/86630.jpg,https://cdn.myanimelist.net/images/anime/2/86630l.jpg
+16157,Choujigen Game Neptune The Animation,4851,6.89,156095,https://cdn.myanimelist.net/images/anime/6/52141.webp,https://cdn.myanimelist.net/images/anime/6/52141l.webp
+16419,Dokidoki! Precure,5896,6.7,29628,https://cdn.myanimelist.net/images/anime/13/46363.webp,https://cdn.myanimelist.net/images/anime/13/46363l.webp
+16656,Zettai Junpaku♡Mahou Shoujo,12664,5.32,20525,https://cdn.myanimelist.net/images/anime/9/65213.webp,https://cdn.myanimelist.net/images/anime/9/65213l.webp
+17651,Genei wo Kakeru Taiyou,7693,6.4,55974,https://cdn.myanimelist.net/images/anime/4/51071.jpg,https://cdn.myanimelist.net/images/anime/4/51071l.jpg
+17725,Magical☆Star Kanon 100%,5521,6.76,32844,https://cdn.myanimelist.net/images/anime/7/75235.webp,https://cdn.myanimelist.net/images/anime/7/75235l.webp
+17919,Houkago no Pleiades (TV),5907,6.7,37614,https://cdn.myanimelist.net/images/anime/5/73434.jpg,https://cdn.myanimelist.net/images/anime/5/73434l.jpg
+18851,Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!,6154,6.66,55441,https://cdn.myanimelist.net/images/anime/7/60279.jpg,https://cdn.myanimelist.net/images/anime/7/60279l.jpg
+20509,Fate/kaleid liner Prisma☆Illya 2wei!,3384,7.2,169882,https://cdn.myanimelist.net/images/anime/12/64175.jpg,https://cdn.myanimelist.net/images/anime/12/64175l.jpg
+20479,Choujigen Game Neptune The Animation: Yakusoku no Eien - True End,3239,7.22,34036,https://cdn.myanimelist.net/images/anime/7/54393.jpg,https://cdn.myanimelist.net/images/anime/7/54393l.jpg
+21573,Senki Zesshou Symphogear GX,2166,7.45,49677,https://cdn.myanimelist.net/images/anime/9/86681.jpg,https://cdn.myanimelist.net/images/anime/9/86681l.jpg
+25519,Yuuki Yuuna wa Yuusha de Aru,2561,7.36,160243,https://cdn.myanimelist.net/images/anime/8/77057.webp,https://cdn.myanimelist.net/images/anime/8/77057l.webp
+25939,Mahou Shoujo Lyrical Nanoha ViVid,5770,6.72,27785,https://cdn.myanimelist.net/images/anime/9/72718.jpg,https://cdn.myanimelist.net/images/anime/9/72718l.jpg
+26165,Yuri Kuma Arashi,4268,7.03,106050,https://cdn.myanimelist.net/images/anime/3/69203.jpg,https://cdn.myanimelist.net/images/anime/3/69203l.jpg
+27525,Fate/kaleid liner Prisma☆Illya 2wei Herz!,3636,7.15,148993,https://cdn.myanimelist.net/images/anime/7/75297.webp,https://cdn.myanimelist.net/images/anime/7/75297l.webp
+26057,Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou,4577,6.95,44572,https://cdn.myanimelist.net/images/anime/1889/126452.webp,https://cdn.myanimelist.net/images/anime/1889/126452l.webp
+27727,Binan Koukou Chikyuu Bouei-bu LOVE!,5234,6.82,84992,https://cdn.myanimelist.net/images/anime/10/68451.webp,https://cdn.myanimelist.net/images/anime/10/68451l.webp
+28669,Go! Princess Precure,1016,7.81,20493,https://cdn.myanimelist.net/images/anime/10/88625.jpg,https://cdn.myanimelist.net/images/anime/10/88625l.jpg
+31417,Binan Koukou Chikyuu Bouei-bu LOVE! LOVE!,4391,7.0,30302,https://cdn.myanimelist.net/images/anime/13/79937.jpg,https://cdn.myanimelist.net/images/anime/13/79937l.jpg
+33003,Mahou Shoujo Ikusei Keikaku,4617,6.94,167813,https://cdn.myanimelist.net/images/anime/2/81087.webp,https://cdn.myanimelist.net/images/anime/2/81087l.webp
+31706,Fate/kaleid liner Prisma☆Illya 3rei!!,2043,7.48,134102,https://cdn.myanimelist.net/images/anime/7/80834.jpg,https://cdn.myanimelist.net/images/anime/7/80834l.jpg
+31733,Bishoujo Senshi Sailor Moon Crystal Season III,1114,7.77,64801,https://cdn.myanimelist.net/images/anime/3/78859.jpg,https://cdn.myanimelist.net/images/anime/3/78859l.jpg
+31884,Mahoutsukai Precure!,2818,7.3,16039,https://cdn.myanimelist.net/images/anime/2/78333.jpg,https://cdn.myanimelist.net/images/anime/2/78333l.jpg
+32836,Senki Zesshou Symphogear AXZ,1547,7.61,38486,https://cdn.myanimelist.net/images/anime/3/86584.jpg,https://cdn.myanimelist.net/images/anime/3/86584l.jpg
+32843,Senki Zesshou Symphogear XV,400,8.19,41524,https://cdn.myanimelist.net/images/anime/1899/101966.jpg,https://cdn.myanimelist.net/images/anime/1899/101966l.jpg
+32979,Flip Flappers,1525,7.62,197588,https://cdn.myanimelist.net/images/anime/4/82292.jpg,https://cdn.myanimelist.net/images/anime/4/82292l.jpg
+34834,Hina Logi: From Luck & Logic,6265,6.64,31447,https://cdn.myanimelist.net/images/anime/11/86576.jpg,https://cdn.myanimelist.net/images/anime/11/86576l.jpg
+33589,ViVid Strike!,4530,6.97,91602,https://cdn.myanimelist.net/images/anime/2/82015.jpg,https://cdn.myanimelist.net/images/anime/2/82015l.jpg
+33668,Soushin Shoujo Matoi,5829,6.71,29547,https://cdn.myanimelist.net/images/anime/6/83224.jpg,https://cdn.myanimelist.net/images/anime/6/83224l.jpg
+34445,Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,1423,7.65,43558,https://cdn.myanimelist.net/images/anime/8/83013.webp,https://cdn.myanimelist.net/images/anime/8/83013l.webp
+33354,Cardcaptor Sakura: Clear Card-hen,1402,7.66,128419,https://cdn.myanimelist.net/images/anime/1467/90338.webp,https://cdn.myanimelist.net/images/anime/1467/90338l.webp
+34290,Kirakira☆Precure A La Mode,3762,7.13,14854,https://cdn.myanimelist.net/images/anime/12/88612.webp,https://cdn.myanimelist.net/images/anime/12/88612l.webp
+35250,Urahara,10965,5.8,36872,https://cdn.myanimelist.net/images/anime/12/88432.jpg,https://cdn.myanimelist.net/images/anime/12/88432l.jpg
+35320,Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma,1158,7.75,45034,https://cdn.myanimelist.net/images/anime/10/89305.jpg,https://cdn.myanimelist.net/images/anime/10/89305l.jpg
+36266,Mahou Shoujo Site,6925,6.52,250329,https://cdn.myanimelist.net/images/anime/1720/95064.webp,https://cdn.myanimelist.net/images/anime/1720/95064l.webp
+38897,Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm,6687,6.56,22420,https://cdn.myanimelist.net/images/anime/1304/99488.webp,https://cdn.myanimelist.net/images/anime/1304/99488l.webp
+36593,Hug tto! Precure,993,7.82,18543,https://cdn.myanimelist.net/images/anime/1220/92883.jpg,https://cdn.myanimelist.net/images/anime/1220/92883l.jpg
+36902,Mahou Shoujo Ore,6221,6.64,86772,https://cdn.myanimelist.net/images/anime/1439/91893.webp,https://cdn.myanimelist.net/images/anime/1439/91893l.webp
+34284,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,1373,7.67,46996,https://cdn.myanimelist.net/images/anime/7/83012.webp,https://cdn.myanimelist.net/images/anime/7/83012l.webp
+36976,Cutie Honey Universe,12305,5.44,20481,https://cdn.myanimelist.net/images/anime/1879/91014.webp,https://cdn.myanimelist.net/images/anime/1879/91014l.webp
+37561,Akanesasu Shoujo,7517,6.43,38311,https://cdn.myanimelist.net/images/anime/1210/95781.jpg,https://cdn.myanimelist.net/images/anime/1210/95781l.jpg
+37979,Mahou Shoujo Tokushusen Asuka,8080,6.33,90658,https://cdn.myanimelist.net/images/anime/1278/112932.jpg,https://cdn.myanimelist.net/images/anime/1278/112932l.jpg
+38256,Magia Record: Mahou Shoujo Madoka☆Magica Gaiden,5218,6.82,169210,https://cdn.myanimelist.net/images/anime/1786/104783.jpg,https://cdn.myanimelist.net/images/anime/1786/104783l.jpg
+38578,Star☆Twinkle Precure,1764,7.55,13395,https://cdn.myanimelist.net/images/anime/1585/97907.jpg,https://cdn.myanimelist.net/images/anime/1585/97907l.jpg
+39071,Machikado Mazoku,1470,7.63,173958,https://cdn.myanimelist.net/images/anime/1633/111518.jpg,https://cdn.myanimelist.net/images/anime/1633/111518l.jpg
+39417,Granbelm,6157,6.66,55518,https://cdn.myanimelist.net/images/anime/1035/101330.webp,https://cdn.myanimelist.net/images/anime/1035/101330l.webp
+40610,Healin' Good♡Precure,4715,6.92,13115,https://cdn.myanimelist.net/images/anime/1401/105084.jpg,https://cdn.myanimelist.net/images/anime/1401/105084l.jpg
+41530,Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya,4376,7.0,69672,https://cdn.myanimelist.net/images/anime/1919/116424.jpg,https://cdn.myanimelist.net/images/anime/1919/116424l.jpg
+41589,Tokyo Mew Mew New ♡,6454,6.61,46574,https://cdn.myanimelist.net/images/anime/1001/116687.webp,https://cdn.myanimelist.net/images/anime/1001/116687l.webp
+32553,Nisekoi: OVA,4149,7.05,101708,https://cdn.myanimelist.net/images/anime/1992/112119.jpg,https://cdn.myanimelist.net/images/anime/1992/112119l.jpg
+42587,Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou,2870,7.29,26271,https://cdn.myanimelist.net/images/anime/1657/118480.webp,https://cdn.myanimelist.net/images/anime/1657/118480l.webp
+42745,Machikado Mazoku: 2-choume,939,7.85,72921,https://cdn.myanimelist.net/images/anime/1036/121135.webp,https://cdn.myanimelist.net/images/anime/1036/121135l.webp
+44191,Tropical-Rouge! Precure,2426,7.39,14212,https://cdn.myanimelist.net/images/anime/1184/110907.jpg,https://cdn.myanimelist.net/images/anime/1184/110907l.jpg
+45665,Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu,10416,5.91,26576,https://cdn.myanimelist.net/images/anime/1476/114026.jpg,https://cdn.myanimelist.net/images/anime/1476/114026l.jpg
+47639,Blue Reflection Ray,10636,5.86,31610,https://cdn.myanimelist.net/images/anime/1634/114551.jpg,https://cdn.myanimelist.net/images/anime/1634/114551l.jpg
+48981,Mahou Shoujo Magical Destroyers,8521,6.26,79566,https://cdn.myanimelist.net/images/anime/1203/134079.jpg,https://cdn.myanimelist.net/images/anime/1203/134079l.jpg
+49291,Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final Season - Asaki Yume no Akatsuki,5355,6.8,32992,https://cdn.myanimelist.net/images/anime/1944/122298.jpg,https://cdn.myanimelist.net/images/anime/1944/122298l.jpg
+53097,Tokyo Mew Mew New ♡ 2nd Season,5834,6.71,15941,https://cdn.myanimelist.net/images/anime/1274/133807.webp,https://cdn.myanimelist.net/images/anime/1274/133807l.webp
+53716,Hirogaru Sky! Precure,1545,7.61,11503,https://cdn.myanimelist.net/images/anime/1762/135268.jpg,https://cdn.myanimelist.net/images/anime/1762/135268l.jpg
+53723,Acro Trip,5709,6.73,21030,https://cdn.myanimelist.net/images/anime/1397/145153.jpg,https://cdn.myanimelist.net/images/anime/1397/145153l.jpg
+54722,Mahou Shoujo ni Akogarete,1471,7.63,176124,https://cdn.myanimelist.net/images/anime/1525/139345.jpg,https://cdn.myanimelist.net/images/anime/1525/139345l.jpg
+57360,Kabushikigaisha Magi-Lumière,4545,6.96,29228,https://cdn.myanimelist.net/images/anime/1926/145102.jpg,https://cdn.myanimelist.net/images/anime/1926/145102l.jpg
