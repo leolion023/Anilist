@@ -24,6 +24,7 @@ We will limit ourselves to more modern trends focusing on the twenty year period
      - This was chosen over a subjective metric like average rating because the number of eyes on a show better reflects the effectiveness of a genre, source, or tag to draw attention, be it positive or negative.
  - Anilist is primarily a western English speaking platform; we can assume that this will be reflected in the accumulated popularity metrics.
  - Anilist includes hundreds of tags in its library. I have chosen a select few based on common observances in community conversation. We ignored tags that were better represented in genres, as well as tags referring to demographics such as Shonen, Shojo, etc. There were also tags that were decidedly not represented enough to be included in this analysis.
+ - There may be some concerns surroundin the use of Anilist over My Anime List, for it's larger userbase. However, MAL's API is pretty resource intesive when you want to query a large amount of shows. To quash some of these fears I will do a short comparison as an aside in the genre section to show that the trends stay nearly the same, even with the lower user base.
 
 # Data:
 
@@ -31,6 +32,45 @@ The data in this project contains Titles, Formats, Genres, Tags, Popularity, and
 - `complete_anilist.csv` (compiled list made in February 2025)
 - `my_anilst.csv` (list of shows from users anilist page, used for future features)
 - Refer to `compile_list.ipynb` if you would like to create your own lists.
+- `MAL_list.csv` (A short list from My Anime List used to compare the results to Anilist)
+
+# Data Dictionary 
+ ## Table of Contents
+   - [Anilist](#Anilist)
+   - [My Anilist](#My_Anilist) 
+   -  [MAL List](#Mal_List) 
+   ## Anilist 
+  |  | Anilist | Description |
+  | ------------- | ----------- | ----------- |
+  | Primary Key | Id | Anilist id |
+  |  | Type | Type of Media |
+  | Foreign Key | IdMal | My Anime List Id |
+  |  | Format | Format of title |
+  |  | Status | Completion status |
+  |  | seasonYear | Year of release |
+  |  | Source | Original source material format |
+  |  | Genres | Genres of Title |
+  |  | Popularity | Popularity of Title on Anilist |
+  |  | Tags | Media Tags of Title |
+  |  | title.english | English Title |
+  |  | title.romaji | Title in romaji |
+  ## My_Anilist 
+  |  | My Anilist | Description |
+  | ------------- | ----------- | ----------- |
+  | Foreign Key | Media Id | Anilist id |
+  |  | Type | Type of Media |
+  |  | media.title.english | English Title |
+
+  ## MAL_List 
+  |  | MAL List | Description |
+  | ------------- | ----------- | ----------- |
+  | Primary Key | Id | MAL id |
+  |  | Title | Title of show |
+  |  | Rank | MAL rank |
+  |  | Mean | Mean of MAL Score |
+  |  | num_user_list | Popularity of Title on MAL |
+  |  | main_picture.medium | Media image for Title |
+  |  | main_picture.large | Media image for Title |
 
 # Project Structure:
 
@@ -42,8 +82,8 @@ The data in this project contains Titles, Formats, Genres, Tags, Popularity, and
 
 | Features | Descriptions |
 |--|--|
-| Make API calls to create Data Base | Create `complete_list.csv` and `my_list.csv` via graphQL API from anilist.co using `compile_list.ipynb` |
-| Clean data using pandas and create new data bases via calculations | `anilist_analysis.ipynb` cleans data using pandas calculates new data points and joins the findings for data analysis |
+| Make API calls to create Data Base | Create `complete_list.csv` and `my_list.csv` via graphQL API from anilist.co and using OAuth 2.0 for myanimelist.net to create `MAL_list.csv` using `compile_list.ipynb` |
+| Clean data using pandas and SQL and create new data bases via calculations | `anilist_analysis.ipynb` cleans data using pandas calculates new data points and joins the findings for data analysis. Uses SQL to joint data from Anilist and MAL |
 | Visualize data for analysis | `anilist_analysis.ipynb` utilizes matplotlib and seaborn to visualize data exploring anime sources, genres and tags over the last 20 years |
 | Utilize a virtual environment | Made a venv for this project |
 | Notate code with markdown cells in Jupyter Notebook | Included you will find clear notes describing each code block |
@@ -62,6 +102,9 @@ To run this project, follow these steps:
 - Requests
 - Json
 - Numpy
+- sqlite3
+- re
+- time
 - Matplotlib
 - Seaborn
 - ast
