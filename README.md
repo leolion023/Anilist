@@ -126,3 +126,7 @@ Virtual Environment Commands
 | Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate` | `deactivate` |
+
+# Future project:
+
+I would like to use the data collection I did  for user list compilation to help users evaluate thier own anime tastes.
