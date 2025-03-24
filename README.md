@@ -87,7 +87,7 @@ The data in this project contains Titles, Formats, Genres, Tags, Popularity, and
 - **Visualization:** Using Matplotlib and Seaborn to visualize data findings.
 - **Tableau** https://public.tableau.com/app/profile/travis.helton/viz/Anilist/Source
 
-## Features Utilized in this Project
+## Features Utilized in this Projectadd
 
 | Features                              | Descriptions                                                                                   |
 |---------------------------------------|------------------------------------------------------------------------------------------------|
