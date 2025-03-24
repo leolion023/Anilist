@@ -85,6 +85,7 @@ The data in this project contains Titles, Formats, Genres, Tags, Popularity, and
 - **Data Exploration:** Using Jupyter notebooks to explore the dataset.
 - **Analysis:** Using Python, primarily with the pandas and json packages, to clean and reformat the data.
 - **Visualization:** Using Matplotlib and Seaborn to visualize data findings.
+- **Tableau** https://public.tableau.com/app/profile/travis.helton/viz/Anilist/Source
 
 ## Features Utilized in this Project
 
