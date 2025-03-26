@@ -138,3 +138,5 @@ To run this project, follow these steps:
 # Future Project
 
 I would like to use the data collected for user list compilation to help users evaluate their own anime tastes.
+
+***AI disclosure: Some use of ChatGPT and Brave AI was used to troubleshoot errors, and find grammatical errors.***
