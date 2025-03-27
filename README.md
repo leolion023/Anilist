@@ -28,8 +28,10 @@ We will limit ourselves to modern trends, focusing on the twenty-year period fro
 
 # Data
 
-The data in this project contains Titles, Formats, Genres, Tags, Popularity, and Release Year for anime on anilist.co. Data was collected via their GraphQL API. Pre-compiled versions of the data are available in the project itself via .csv files. Users can update the files to include more recent shows via `compile_list.ipynb`.
+The data in this project contains Titles, Formats, Genres, Tags, Popularity, and Release Year for anime on anilist.co and myanimelist.com. Data was collected via their GraphQL API and MAL API, respectfully. Pre-compiled versions of the data are available in the project itself via .csv files. Users can update the files to include more recent shows via `compile_list.ipynb`.
 
+**If you would like to run the MAL API code you will need to provide a file called client_id.py with your own client id from myanimelist.com (see client_id.py.example for the format)**
+s
 - `complete_anilist.csv` (compiled list made in February 2025)
 - `my_anilist.csv` (list of shows from the user’s Anilist page, used for future features)
 - Refer to `compile_list.ipynb` if you would like to create your own lists.
